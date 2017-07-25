@@ -1,0 +1,6 @@
+/__init__.pyc
+/network_tests.pyc
+/packet_tests.pyc
+/reader_tests.pyc
+/rssi_logger.pyc
+/tracker_tests.pyc
