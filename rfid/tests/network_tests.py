@@ -1,7 +1,7 @@
 '''
 Created on Feb 10, 2013
 
-@author: frmdstryr@gmail.com
+@author: jrm5555@psu.edu
 '''
 import unittest
 

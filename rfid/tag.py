@@ -1,5 +1,5 @@
 '''
 Created on Jan 3, 2013
 
-@author: frmdstryr@gmail.com
+@author: jrm5555@psu.edu
 '''
